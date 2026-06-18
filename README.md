@@ -211,8 +211,8 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ## 🙋‍♂️ Author
 
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Kaggle](https://kaggle.com/yourprofile)
+📧 afzalaryan2003@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/aryan-afzal-31692636) 
 
 ---
 
