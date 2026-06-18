@@ -1,0 +1,24 @@
+🦺 Just shipped: Real-Time PPE Violation Detection for Construction Sites using YOLO11n
+
+Construction sites are among the most dangerous workplaces in the world — and most accidents are preventable. So I built an AI system that detects PPE violations in real time, flags missing hard hats, vests, and masks the moment they appear on screen.
+
+Here's what's under the hood:
+
+🧠 Model: YOLO11n (Nano) — ~2.6M parameters, fast enough for live video
+📦 Dataset: 4,000 images sampled from a construction PPE dataset (3,200 train / 400 val / 400 test)
+🎯 Result: mAP@50 of 0.87+ | Precision 0.88+ | Recall 0.84+
+⚡ Training: 100 epochs on Kaggle T4 GPU in under 25 minutes
+🚨 Output: Annotated video with real-time violation HUD + CSV violation log
+
+8 classes detected:
+✅ hardhat · safety-vest · mask · gloves
+❌ no-hardhat · no-safety-vest · no-mask (violations flagged in red)
+
+The system auto-detects violation vs. compliant workers, overlays a live warning banner when any violation is found, and logs every detection to a timestamped CSV for reporting.
+
+Tested it on real construction site footage — the violations are caught frame by frame. 🔴
+
+📂 Full code + notebook on GitHub → [link]
+📓 Notebook on Kaggle → [link]
+
+#ComputerVision #YOLO #ObjectDetection #DeepLearning #SafetyAI #ConstructionSafety #MachineLearning #Python #OpenCV #AI #BuildInPublic
