@@ -212,7 +212,8 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 **Your Name**  
 📧 afzalaryan2003@gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/aryan-afzal-31692636) [kaggle] (www.kaggle.com/code/aryanafzal/construction-safety)
+🔗 [LinkedIn](www.linkedin.com/in/aryan-afzal-31692636)
+    [kaggle] (www.kaggle.com/code/aryanafzal/construction-safety)
 
 
 ---
